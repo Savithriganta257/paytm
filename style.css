@@ -1,0 +1,146 @@
+*{
+	margin: 0%;
+	/*border: 1px solid black;*/
+}
+.navbar{
+	padding: 1.5%;
+	font-family: 'Poppins', sans-serif;
+
+}
+	.navbar a{
+	text-decoration: none;
+	font-size: 14px;
+	color: black;
+	margin-left: 4%;
+	}
+	.logo{
+		margin: 0%,5% !important;
+	}
+	.navbar img{
+		vertical-align: middle;
+	}
+	#signin{
+		background-color: #00baf2;
+		border-radius: 25px;
+		color: white;
+		padding: 0.8% 1%;
+		margin-left: 10%;
+	}
+	.signin2{
+		background-color: darkblue;
+	}
+	.wallet{
+		text-align: center;
+		background-color:lightgray;
+		padding: 1%;
+		font-size: 18px;
+	}
+	
+.sec2{
+		display:flex;
+		justify-content: space-between;
+		padding: 5% 0% 7% 7%;
+		font-family: 'Poppins', sans-serif;
+
+	}
+	.image3{
+		margin-bottom:3% ;
+	}
+	.India{
+		font-size: 40px;
+		margin-bottom: 5%;
+	}
+	.Download-app{
+		background-color: black;
+		color: white;
+		padding: 3%;
+		font-size: 17px;
+		width: 55%;
+		border-radius: 25px;
+		text-align: center;
+		margin-top: 3%;
+	}
+	.Download-app:hover{
+		background-color: white; 
+		color: black;
+		}
+		#recharge{
+			font-size: 40px;
+			padding: 5px;
+			margin-left: 5%;
+			font-family: 'Pooppins',sans-serif;
+		}
+	.fa-apple{
+margin-left: 2%;
+}
+	.fa-google-pay{
+		margin-left: 2%;
+
+}
+	
+	.sec3{
+		display:flex;
+		justify-content: space-evenly;
+		padding: 1%;
+	}
+	.sec3 a{
+		text-decoration: none;
+		color: white;
+		font-family: 'Pooppins',sans-serif;
+		}
+		.three
+		{
+			background-color: #00baf2;
+			color: white;
+			padding: 1%;
+		}
+	#book{
+		font-size: 40px;
+		padding:5px ;
+		margin-left: 5%;
+		font-family: 'Pooppins',sans-serif;
+	}
+	.sec4{
+		display: flex;
+		justify-content: space-evenly;
+		padding: 1%;
+	}
+	.sec4 a{
+		text-decoration: none;
+		color: white;
+
+font-family: 'Pooppins',sans-serif;
+	}
+	
+
+	.four{
+		background-color: #0f4a8a;
+		padding: 1%;
+		color: white;
+
+}
+.paytm{
+	font-size: 50px;
+	margin-left: 8%;
+	padding: 4%;
+}
+.five{
+	display: flex;
+	padding:3%;
+}
+.five1{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: white;
+	padding:8% 6%;
+	/*border: 2px solid;*/
+	font-size: 19px;
+}
+.sec5{
+	background-color: lightgray;
+	padding: 13%;
+	font-family: 'Pooppins',sans-serif;
+
+}
+
+
