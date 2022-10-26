@@ -1,12 +1,12 @@
 *{
 	margin: 0%;
 	/*border: 1px solid black;*/
-}
+	}
 .navbar{
 	padding: 1.5%;
 	font-family: 'Poppins', sans-serif;
 
-}
+	}
 	.navbar a{
 	text-decoration: none;
 	font-size: 14px;
@@ -27,20 +27,20 @@
 		margin-left: 10%;
 	}
 	.signin2{
-		background-color: darkblue;
-	}
+			background-color: darkblue;
+		}
 	.wallet{
-		text-align: center;
-		background-color:lightgray;
-		padding: 1%;
-		font-size: 18px;
+	text-align: center;
+	background-color:lightgray;
+	padding: 1%;
+	font-size: 18px;
 	}
-	
+		
 .sec2{
-		display:flex;
-		justify-content: space-between;
-		padding: 5% 0% 7% 7%;
-		font-family: 'Poppins', sans-serif;
+	display:flex;
+	justify-content: space-between;
+	padding: 5% 0% 7% 7%;
+	font-family: 'Poppins', sans-serif;
 
 	}
 	.image3{
@@ -65,34 +65,33 @@
 		color: black;
 		}
 		#recharge{
-			font-size: 40px;
-			padding: 5px;
-			margin-left: 5%;
-			font-family: 'Pooppins',sans-serif;
-		}
-	.fa-apple{
-margin-left: 2%;
-}
-	.fa-google-pay{
-		margin-left: 2%;
-
-}
-	
-	.sec3{
-		display:flex;
-		justify-content: space-evenly;
-		padding: 1%;
-	}
-	.sec3 a{
-		text-decoration: none;
-		color: white;
+		font-size: 40px;
+		padding: 5px;
+		margin-left: 5%;
 		font-family: 'Pooppins',sans-serif;
 		}
-		.three
+.fa-apple{
+	margin-left: 2%;
+	}
+.fa-google-pay{
+	margin-left: 2%;
+	}
+	
+.sec3{
+	display:flex;
+	justify-content: space-evenly;
+	padding: 1%;
+	}
+	.sec3 a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Pooppins',sans-serif;
+	}
+	.three
 		{
-			background-color: #00baf2;
-			color: white;
-			padding: 1%;
+		background-color: #00baf2;
+		color: white;
+		padding: 1%;
 		}
 	#book{
 		font-size: 40px;
@@ -106,28 +105,24 @@ margin-left: 2%;
 		padding: 1%;
 	}
 	.sec4 a{
-		text-decoration: none;
-		color: white;
-
-font-family: 'Pooppins',sans-serif;
+	text-decoration: none;
+	color: white;
+	font-family: 'Pooppins',sans-serif;
 	}
-	
-
 	.four{
-		background-color: #0f4a8a;
-		padding: 1%;
-		color: white;
-
-}
+	background-color: #0f4a8a;
+	padding: 1%;
+	color: white;
+	}
 .paytm{
 	font-size: 50px;
-	margin-left: 8%;
+	margin-right: 1%;
 	padding: 4%;
-}
+	}
 .five{
 	display: flex;
 	padding:3%;
-}
+	}
 .five1{
 	display: flex;
 	justify-content: space-evenly;
@@ -135,12 +130,103 @@ font-family: 'Pooppins',sans-serif;
 	padding:8% 6%;
 	/*border: 2px solid;*/
 	font-size: 19px;
-}
+	border-radius: 2%;
+	}
 .sec5{
 	background-color: lightgray;
 	padding: 13%;
 	font-family: 'Pooppins',sans-serif;
-
+	}
+.five3{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: white;
+	padding:8% 6%;
+	/*border: 2px solid;*/
+	font-size: 19px;
+	margin-top: 4%;
+	border-radius: 2%;
+	}
+.five4{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: white;
+	padding:8% 6%;
+	/*border: 2px solid;*/
+	font-size: 19px;
+	margin-top: 4%;
+	border-radius: 2%;
+	}
+.learn{
+	background-color: darkblue;
+	color: white;
+	padding: 3%;
+	font-size: 17px;
+	width: 30%;
+	border-radius: 25px;
+	text-align: center;
+	margin-top: 3%;
+	}
+	.learn:hover{
+	background-color: skyblue; 
+	color: black;
+	}
+	.image26{
+	padding: 2%;
+	}
+	.image27{
+	padding: 2%;
+	}
+		
+.sec6{
+	display: flex;
+		}
+.five5{
+	justify-content: space-evenly;
+	background-color: white;
+	padding:8% 6%;
+	/*border: 2px solid;*/
+	font-size: 19px;
+	margin-top: 4%;
+	border-radius: 2%;
+	}
+	.five5 img{
+margin-bottom: 5%;
+	}
+.five51{
+	justify-content: space-evenly;
+	background-color: white;
+	padding:8% 6%;
+	/*border: 2px solid;*/
+	font-size: 19px;
+	margin-top: 4%;
+	margin-left: 3%;
+	border-radius: 2%;
+	}
+	.five51 img{
+		margin-bottom: 5%;
+	}
+.sec7{
+	display: flex;
+	font-family: 'Pooppins',sans-serif;
+	background-color: white;
+	margin-top: 3%;
+	justify-content: space-between;
+	padding: 5%;
 }
-
+	.six{
+	font-size: 25px;
+	margin-top: 4%;
+	margin-bottom: 7%;
+}
+/*.financial{
+	margin-bottom: 5%;
+}*/
+.six p{
+	font-size: 17px;
+}
+.six h1{
+	margin-bottom: 5%;
+	margin-top: 4%;
+}
 
