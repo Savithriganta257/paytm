@@ -1,6 +1,6 @@
 *{
 	margin: 0%;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	}
 .navbar{
 	padding: 1.5%;
@@ -218,6 +218,7 @@ margin-bottom: 5%;
 	font-size: 25px;
 	display: flex;
 	justify-content: space-between;
+	padding: 3%;
 }
 /*.financial{
 	margin-bottom: 5%;
@@ -239,6 +240,11 @@ margin-bottom: 5%;
 }
 .seven img{
 	padding-bottom: 3%;
+}
+.sec7 h1{
+	font-size: 40px;
+	padding-bottom: 3%;	
+	font-family: 'Pooppins',sans-serif;
 }
 
 .sec9{
@@ -272,9 +278,68 @@ padding-bottom: 4%;
 .nine h1{
 padding-bottom: 2%;
 }
+.sec11{
+	background-color: white;
+	padding: 8%;
+	font-family: 'Pooppins',sans-serif;
+	/*border:1px solid black ;*/
+}
 .ten{
 	display: flex;
+	justify-content:space-evenly;
+	background-color: lightgrey;
+	padding: 8% 6%;
+	border-radius: 2%;
+	margin-top: 3%;
+}
+.sec11 h1{
+	font-size:50px;
+	padding: 1%;
+}
+.ten h1{
+	padding-top: 4%;
+	font-size: 35px;
+}
+.ten p{
+	font-size: 20px;
+}
+.ten div{
+	padding-top: 8%;
+}
+.sec12{
+	background-color: white;
+	padding: 7%;
+	font-family: 'Pooppins',sans-serif;
+}
+.shop{
+	background-color: lightgray;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 8% 6%;
+	border-radius: 2%;
+	margin-top: 2%;
+}
+.shop div{
+	padding: 5%;
+}
+.shop h1{
+	font-size: 35px;
+	padding: 1%;
+}
+.shop p{
+padding: 2%;
 }
 
-
-
+.software{
+	display: flex;
+	font-family: 'Pooppins',sans-serif;
+	justify-content: space-between;
+}
+.tool{
+	font-size: 45px;
+	padding: 3%;
+}
+.wealth{
+	display: flex;
+	margin-top: 4%;
+}
