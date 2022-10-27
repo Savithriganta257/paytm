@@ -1,6 +1,6 @@
 *{
 	margin: 0%;
-	/*border: 1px solid black;*/
+	border: 1px solid red;
 	}
 .navbar{
 	padding: 1.5%;
@@ -160,7 +160,7 @@
 .learn{
 	background-color: darkblue;
 	color: white;
-	padding: 3%;
+	padding: 2%;
 	font-size: 17px;
 	width: 30%;
 	border-radius: 25px;
@@ -207,17 +207,17 @@ margin-bottom: 5%;
 		margin-bottom: 5%;
 	}
 .sec7{
-	display: flex;
+	
 	font-family: 'Pooppins',sans-serif;
 	background-color: white;
 	margin-top: 3%;
-	justify-content: space-between;
-	padding: 5%;
+	
+	padding:10% 5%;
 }
 	.six{
 	font-size: 25px;
-	margin-top: 4%;
-	margin-bottom: 7%;
+	display: flex;
+	justify-content: space-between;
 }
 /*.financial{
 	margin-bottom: 5%;
@@ -229,4 +229,52 @@ margin-bottom: 5%;
 	margin-bottom: 5%;
 	margin-top: 4%;
 }
+.sec8{
+	display: flex;
+	justify-content: space-evenly;
+}
+.seven{
+	font-size: 25px;
+	font-family: 'Pooppins',sans-serif;
+}
+.seven img{
+	padding-bottom: 3%;
+}
+
+.sec9{
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 7%;
+	font-size: 20px;
+	font-family: 'Pooppins',sans-serif;
+}
+.eight img{
+padding-bottom: 4%;
+}
+.sec10{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 8%;
+	background-color: lightgray;
+	padding: 8%;
+}
+.nine{
+	font-size: 20px;
+	font-family: 'Pooppins',sans-serif;
+}
+.nine img{
+	padding-bottom: 8%;
+}
+.nine p{
+	font-size: 16px;
+	padding-top: 2%;
+}
+.nine h1{
+padding-bottom: 2%;
+}
+.ten{
+	display: flex;
+}
+
+
 
