@@ -1,6 +1,6 @@
 *{
 	margin: 0%;
-	/*border: 1px solid red;*/
+	border: 1px solid red;
 	}
 .navbar{
 	padding: 1.5%;
@@ -233,7 +233,10 @@ margin-bottom: 5%;
 .sec8{
 	display: flex;
 	justify-content: space-evenly;
-}
+	background-image: url("image/background.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	}
 .seven{
 	font-size: 25px;
 	font-family: 'Pooppins',sans-serif;
@@ -334,12 +337,125 @@ padding: 2%;
 	display: flex;
 	font-family: 'Pooppins',sans-serif;
 	justify-content: space-between;
+	margin-left: 8%;
+}
+.software p{
+	padding-top: 7%;
+	font-size: 19px;
+}
+.software h1{
+	padding-top: 7%;
+	font-size: 25px;
 }
 .tool{
 	font-size: 45px;
-	padding: 3%;
+	padding: 4%;
+	margin-left: 5%;
 }
-.wealth{
-	display: flex;
-	margin-top: 4%;
+
+@media(max-width: 400px){
+	.India{
+		font-size: 10px;
+	}
+	.Download-app{
+		font-size: 10px;
+		padding: 1%;
+	}
+	#recharge{
+		font-size: 20px;
+	}
+	.sec3{
+	font-size: 15px;
+	flex-direction: column;
+	padding: 25%;
+	}
+	.sec4{
+		font-size: 15px;
+		flex-direction: column;
+		padding: 20%;
+	}
+	#book{
+		font-size: 20px;
+	}
+	.paytm{
+		font-size: 20px;
+	}
+	.five{
+		font-size: 15px;
+	}
+	.five1{
+		font-size: 10px;
+	}
+	.Download-app{
+		font-size: 10px;
+		padding: 1%;
+	}
+	.five3{
+		font-size: 10px;
+	}
+
+	.five{
+		font-size: 15px;
+	}
+	.Download-app{
+		font-size: 10px;
+		padding: 1%;
+	}
+	.five4{
+		font-size: 10px;
+	}
+	.learn{
+		padding: 1%;
+		font-size: 10px;
+	}
+	.five5{
+		font-size: 15px;
+	}
+	.five51{
+		font-size: 15px;
+	}
+	.six{
+		font-size: 15px;
+	}
+	.sec7 h1{
+		font-size: 20px;
+	}
+	.seven{
+		font-size: 15px;
+	}
+	.learn{
+		padding: 3%;
+		font-size: 10px;
+	}
+	.eight{
+		font-size: 15px;
+	}
+	.nine{
+		font-size: 15px;
+	}
+	.learn{
+		padding: 1px;
+		font-size: 10px;
+	}
+	.sec11 h1{
+		font-size: 15px;
+	}
+	.ten{
+		font-size: 17px;
+	}
+	.software{
+		justify-content:space-between;
+	}
+	.software img{
+		width: 35%;
+	}
+	.software h1{
+		font-size: 15px;
+	}
+	.software p{
+		font-size: 10px;
+	}
 }
+
+
+
